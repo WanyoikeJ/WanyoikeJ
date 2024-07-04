@@ -9,7 +9,10 @@ WanyoikeJ/WanyoikeJ is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanyoikeJ"/>
+
+
+<a href="https://github.com/justo340" align="left"><img src="https://camo.githubusercontent.com/6db4045636890a8b2b2f06f2fa42fd826e9f9bd704e2151739f97fd38a201c4e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a7573746f333430266c616e67735f636f756e743d3130267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d74727565266c6f63616c653d656e26637573746f6d5f7469746c653d546f70253230254c616e677561676573" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanyoikeJ&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages" style="max-width: 100%;"></a>
+
 
 
 <img scr="https://github-readme-stats.vercel.app/api/top-langs?username=WanyoikeJ&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py"/>
