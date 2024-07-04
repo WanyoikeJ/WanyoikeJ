@@ -9,9 +9,9 @@ WanyoikeJ/WanyoikeJ is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanyoikeJ&bg_color=1F222E"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanyoikeJ&bg_color=1F222E&border_color=1F222E"/>
 
-<img scr="https://github-readme-stats.vercel.app/api/top-langs?username=WanyoikeJ&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py"/>
+<img scr="https://github-readme-stats.vercel.app/api/top-langs?username=WanyoikeJ&langs_count=6&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E"/>
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=WanyoikeJ&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 
